@@ -1,6 +1,32 @@
 # ExamenFinal
 Examen Carlos Cantuña
 
+# AndesFin – Microservicio de Simulación de Inversiones
+
+##  Descripción General
+
+Este proyecto corresponde a la **Evaluación Conjunta del Segundo Parcial** de la asignatura **Arquitectura de Software**, perteneciente a la carrera de **Ingeniería en Tecnologías de la Información – Modalidad En Línea** de la **Universidad de las Fuerzas Armadas ESPE**.
+
+La aplicación implementa un **microservicio backend** para la fintech ficticia **AndesFin**, cuyo objetivo es permitir la **simulación de inversiones financieras**, considerando el capital disponible del usuario, un conjunto de productos financieros y criterios de optimización orientados a maximizar la ganancia estimada sin exceder el capital disponible.
+
+El proyecto fue desarrollado tomando como base una práctica previa de gestión de usuarios, extendiéndola hacia una arquitectura más completa que incorpora **lógica de negocio**, **persistencia de simulaciones**, **trazabilidad** y **patrones de diseño obligatorios**.
+
+---
+
+##  Objetivo del Proyecto
+
+- Gestionar usuarios y productos financieros.
+- Permitir la ejecución de simulaciones de inversión a partir de datos dinámicos enviados por el cliente.
+- Calcular combinaciones óptimas de productos financieros según capital disponible.
+- Registrar cada simulación realizada para efectos de auditoría, transparencia y repetibilidad.
+- Aplicar principios y patrones de **Arquitectura de Software**.
+
+---
+
+##  Arquitectura de la Aplicación
+
+La aplicación sigue una **arquitectura en capas**, alineada a buenas prácticas y al enfoque clásico utilizado en microservicios con Spring Boot:
+
 
 ### Capas implementadas
 
