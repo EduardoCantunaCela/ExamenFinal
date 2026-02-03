@@ -24,7 +24,7 @@ Examen Carlos Cantuña
 
 ---
 
-## 🧩 Patrones de Diseño Utilizados
+## Patrones de Diseño Utilizados
 
 El proyecto aplica de forma explícita los siguientes patrones requeridos por el enunciado:
 
@@ -41,7 +41,7 @@ Estos patrones facilitan la mantenibilidad, escalabilidad y claridad arquitectó
 
 ---
 
-## 🗄️ Modelo de Datos
+##  Modelo de Datos
 
 ### Usuario
 - `id` (UUID)
@@ -67,7 +67,7 @@ Estos patrones facilitan la mantenibilidad, escalabilidad y claridad arquitectó
 
 ---
 
-## 🌐 Endpoints Definidos
+##  Endpoints Definidos
 
 - `GET /usuarios`  
   Lista todos los usuarios registrados.
@@ -85,7 +85,7 @@ Estos patrones facilitan la mantenibilidad, escalabilidad y claridad arquitectó
 
 ---
 
-## 🧮 Lógica de Simulación
+##  Lógica de Simulación
 
 La simulación de inversión considera:
 
@@ -102,7 +102,7 @@ El enfoque de optimización sigue un criterio **greedy**, priorizando productos 
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Java**
 - **Spring Boot**
@@ -117,7 +117,7 @@ El enfoque de optimización sigue un criterio **greedy**, priorizando productos 
 
 ---
 
-## 🐳 Contenedorización
+##  Contenedorización
 
 El proyecto fue diseñado para ejecutarse en un entorno contenerizado utilizando **Docker Compose**, incluyendo:
 
@@ -131,9 +131,9 @@ Esto permite levantar el entorno en limpio sin configuraciones manuales adiciona
 
 ---
 
-## 📌 Estado del Proyecto
+##  Estado del Proyecto
 
-⚠️ **Estado: Parcialmente implementado**
+ **Estado: Parcialmente implementado**
 
 - La arquitectura base y las capas están correctamente definidas.
 - Las entidades, servicios y repositorios fueron estructurados conforme al diseño.
@@ -142,7 +142,7 @@ Esto permite levantar el entorno en limpio sin configuraciones manuales adiciona
 
 ---
 
-## 📚 Conclusión
+##  Conclusión
 
 Este proyecto refleja la aplicación práctica de los conceptos de **Arquitectura de Software**, priorizando la correcta separación de responsabilidades, el uso de patrones de diseño y una estructura escalable, incluso cuando no se alcanza la implementación completa de todas las funcionalidades.
 
@@ -150,7 +150,7 @@ El diseño permite extender fácilmente la lógica de simulación, mejorar el al
 
 ---
 
-## ✍️ Autor
+##  Autor
 
 **Carlos Eduardo Cantuña Cela**  
 Ingeniería en Tecnologías de la Información  
