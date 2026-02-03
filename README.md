@@ -27,6 +27,13 @@ El proyecto fue desarrollado tomando como base una práctica previa de gestión 
 
 La aplicación sigue una **arquitectura en capas**, alineada a buenas prácticas y al enfoque clásico utilizado en microservicios con Spring Boot:
 
+Controller
+↓
+Service
+↓
+Repository
+↓
+Base de Datos
 
 ### Capas implementadas
 
